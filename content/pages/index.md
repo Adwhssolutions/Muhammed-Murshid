@@ -124,10 +124,12 @@ sections:
         type: FeaturedItem
       - title: Long-Term Growth and Credibility
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Ranking high on Google builds trust. A well-optimized website signals
+          authority and professionalism, helping you grow sustainably and stay
+          ahead of competitors over time.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
