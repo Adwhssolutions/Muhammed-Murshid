@@ -270,7 +270,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Social Media in Dubai
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
