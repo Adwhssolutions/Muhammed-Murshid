@@ -297,7 +297,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/Social-Marketing-1024x1024.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
