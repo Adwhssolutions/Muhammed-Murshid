@@ -61,7 +61,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Unlock Growth and Visibility with the Power of SEO
     items:
       - type: FeaturedItem
         title: Increased Visibility and Traffic
