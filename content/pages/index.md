@@ -96,10 +96,13 @@ sections:
               borderRadius: x-large
       - title: Cost-Effective Marketing
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Unlike paid ads, SEO keeps delivering results long after the initial
+          investment. It attracts targeted visitors actively searching for your
+          products or services—giving you steady, high-quality leads at a lower
+          cost.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
