@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Fueling Global Brands with Cutting-Edge SEO Power from Dubai
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      Fuel your global growth with Dubai’s leading SEO agency. We craft
+      data-driven strategies that boost visibility, drive traffic, and turn
+      clicks into customers. From startups to global brands, we deliver results
+      that rank, convert, and scale.
+
     actions:
       - label: Get started
         altText: ''
