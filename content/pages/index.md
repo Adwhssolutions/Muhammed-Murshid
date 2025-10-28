@@ -274,9 +274,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      Boost your brand presence with[ **Dubai’s top social media
+      agency.**](https://adwhssolutions.ae/service/social-media-management/) We
+      create powerful strategies, engaging content, and data-driven campaigns
+      that grow followers, drive sales, and build lasting connections across
+      every major platform.
+
     actions:
       - label: Get started
         url: /
