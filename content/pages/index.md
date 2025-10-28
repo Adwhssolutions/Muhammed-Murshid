@@ -245,11 +245,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Accelerate your growth with smart[ **SEO**
+      ](https://adwhssolutions.ae/service/search-engine-optimization/)strategies
+      that attract the right audience, boost visibility, and drive real results.
+      From startups to global brands, we help you scale faster, smarter, and
+      stronger — turning traffic into long-term success.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
