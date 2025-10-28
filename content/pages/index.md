@@ -67,10 +67,12 @@ sections:
       - type: FeaturedItem
         title: Increased Visibility and Traffic
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          SEO helps your website appear at the top of search results, making it
+          easier for potential customers to find you. Higher visibility means
+          more organic traffic and stronger brand awareness.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
