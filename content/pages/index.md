@@ -122,7 +122,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: Long-Term Growth and Credibility
         subtitle: Long-Term Growth and Credibility
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
