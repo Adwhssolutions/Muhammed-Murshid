@@ -244,7 +244,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >+
 
       Accelerate your growth with smart[ **SEO**
