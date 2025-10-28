@@ -8,13 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Fueling Global Brands with Cutting-Edge SEO Power from Dubai
-    text: >+
-
-      Fuel your global growth with Dubai’s leading SEO agency. We craft
-      data-driven strategies that boost visibility, drive traffic, and turn
-      clicks into customers. From startups to global brands, we deliver results
-      that rank, convert, and scale.
-
+    text: >
+      Fuel your global growth with [**Dubai’s leading SEO
+      agency**](https://adwhssolutions.ae/service/search-engine-optimization/).
+      We craft data-driven strategies that boost visibility, drive traffic, and
+      turn clicks into customers. From startups to global brands, we deliver
+      results that rank, convert, and scale.
     actions:
       - label: Get started
         altText: ''
